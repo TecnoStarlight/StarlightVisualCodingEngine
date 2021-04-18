@@ -1,0 +1,39 @@
+{
+	"Priority": 999,
+	"Level": 100,
+	"Conditions": {
+		"OnlyToPremium": false,
+		"WithGamepass": 0
+	},
+	"Modifier": {
+		"Humanoid": {
+			"Health": 100,
+			"JumpHeight": 20,
+			"WalkSpeed": 27,
+			"SlopeAngle": 50
+		},
+		"Appearance": {
+			"SkinColor": [1, 0.76, 0.34]
+		},
+		"CorePermissions": {
+			"UpdateScript": true,
+			"RunScript": true,
+			"Chat": true,
+			"Whisper": true,
+			"Join": true,
+			"PvP": true
+		},
+		"PCActionKeys": {
+			"OpenScripts": "Ctrl + O",
+			"CreateNewScript": "Ctrl + N",
+			"SaveScript": "Ctrl + S",
+			"RunScript": "Ctrl + Space",
+			"Instances": "Ctrl + Tab",
+			"PlayerList": "Tab",
+			"ZoomIn": "I",
+			"ZoomOut": "O",
+			"Run": "Shift",
+			"ActionList": "Asterisk"
+		}
+	}
+}
