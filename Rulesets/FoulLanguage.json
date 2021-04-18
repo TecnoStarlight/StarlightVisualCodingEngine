@@ -1,0 +1,13 @@
+{
+  "AttemptWarning": [
+    {
+      "Attempts": 10,
+      "Action": "Ban"
+    },
+    {
+      "Attempts": 5,
+      "Action": "Mark"
+    }
+  ],
+  "Alias": "Inappropriate Language"
+}
